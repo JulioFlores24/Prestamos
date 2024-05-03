@@ -41,6 +41,55 @@
 <hr>
 </hr>
 
+***Ejecución del Programa***
+
+*Paso 1: Se accede a la carpeta XAMPP, un componente fundamental para la instalación y operación eficiente del software XAMPP.*
+
+![Captura de pantalla 2024-05-03 113916](https://github.com/JulioFlores24/Prestamos/assets/168167417/e714f777-7692-4d89-9026-c7b0cd6208d1)
+
+***Figura 1: Representación visual del proceso.***
+
+
+*Paso 2: Posteriormente, se navega hacia la carpeta htdocs, una ubicación dentro de la instalación de XAMPP designada para el almacenamiento de los archivos de los sitios web.*
+
+![Captura de pantalla 2024-05-03 114015](https://github.com/JulioFlores24/Prestamos/assets/168167417/ab964a82-5f23-4872-9628-26cf57394d05)
+
+***Figura 2: Ilustración del procedimiento mencionado.***
+
+*Paso 3: Al ingresar a htdcs se crea una carpeta llamada "Prestamos" como se visualiza en la figura 3.*
+
+![Captura de pantalla 2024-05-03 114052](https://github.com/JulioFlores24/Prestamos/assets/168167417/ad81db92-7ebe-4952-be6c-6e41bdafd19a)
+
+***Figura 3: Creación de Carpeta "Prestamos" en htdcs.***
+
+
+*Paso 4: Copiamos los archivos en la carpeta "PRESTAMOS" visualizar en la figura 4.*
+
+![Captura de pantalla 2024-05-03 114117](https://github.com/JulioFlores24/Prestamos/assets/168167417/5083b4c6-e9ee-43bf-aeaf-72fd624a91bc)
+
+***Figura 4: Copia de Archivos en Carpeta "PRESTAMOS".***
+
+*Paso 5: Entramos a la URL: http://localhost/phpmyadmin/ para crear nuestra base de datos con el nombre de "prestamos", las configuraciones generales de "utf8mb4_spanish2_c1". Y en la base de datos que creamos importamos el archivo spm que se encuentra en la carpeta DB de prestamos como se visualiza en la figura 5.*
+
+![Captura de pantalla 2024-05-03 114152](https://github.com/JulioFlores24/Prestamos/assets/168167417/e6797686-202d-4dd1-8224-ffc927270225)
+
+***Figura 5: Importación de Archivo spm en phpMyAdmin.***
+
+*Paso 6: Ingresamos a la URL: http://localhost/Prestamos/ y vemos que entramos a la vista principal de prestamos como se visualiza en la figura 6 e ingresamos las contraseñas "Administrador" "Administrador".*
+
+![Captura de pantalla 2024-05-03 114656](https://github.com/JulioFlores24/Prestamos/assets/168167417/9b9bdec8-b368-4afc-ae9a-eaf4b4f61562)
+
+***Figura 6: Vista Principal de Prestamos con Contraseñas.***
+
+*Paso 7: Pagina principal de prestamos.*
+
+![Captura de pantalla 2024-05-03 114709](https://github.com/JulioFlores24/Prestamos/assets/168167417/f87c8233-faac-440c-a2b0-24d1c054b943)
+
+***Figura 7: Página Principal de Prestamos.***
+
+<hr>
+</hr>
+
 ***Desarrollo***
 Estos archivos son utilizados para crear una página web con funcionalidades básicas como la estructura de la cuadrícula, botones, formularios, barras de desplazamiento, alertas, ventanas emergentes y más. También se utilizan para aplicar estilos a la página web y mejorar la experiencia del usuario.
 
